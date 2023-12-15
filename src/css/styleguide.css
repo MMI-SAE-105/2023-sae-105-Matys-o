@@ -1,0 +1,105 @@
+:root { 
+  --black: #000000;
+  --ciel-bofill: #4080b3;
+  --mur-bofill: #dc755b;
+  --red-bofill: #ac555b;
+  --rose-bofill: #cf8ba4;
+  --tundora: #464646;
+  --white: #ffffff;
+ 
+  --font-size-m: 24px;
+  --font-size-s: 14px;
+ 
+  --font-family-baihgale-regular: "Baihgale-Regular", Helvetica;
+  --font-family-classy_vogue-regular: "Classy Vogue-Regular", Helvetica;
+  --font-family-great_warrior-personal_use-regular: "Great Warrior-Personal use-Regular", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-work_sans: "Work Sans", Helvetica;
+}
+.eventuelle-1 {
+  font-family: var(--font-family-baihgale-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.mobilemd-regular {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+}
+
+.worksans-semi-bold-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.classyvogue-regular-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-classy_vogue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-semi-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.worksans-semi-bold-tundora-14px {
+  color: var(--tundora);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.worksans-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.worksans-semi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.worksans-semi-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.greatwarrior-personaluse-regular-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-great_warrior-personal_use-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.classyvogue-regular-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-classy_vogue-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
