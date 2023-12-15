@@ -1,0 +1,197 @@
+/* screen - lu39expo */
+
+.lu39expo {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1888px;
+  width: 375px;
+}
+
+.lu39expo .component-6 {
+  background-color: var(--black);
+  gap: 8px;
+  height: 306px;
+  min-width: 375px;
+  padding: 4px 7px;
+}
+
+.lu39expo .palais-des-plans-lettre-p-1 {
+  cursor: pointer;
+  height: 72px;
+  width: 72px;
+}
+
+.lu39expo .line-1 {
+  margin-top: -5px;
+}
+
+.lu39expo .line-2 {
+  margin-top: 5px;
+}
+
+.lu39expo .line-3 {
+  margin-top: 4px;
+}
+
+.lu39expo .overlap-group4 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(90.51, 90.51, 90.51, 0) 99.98%, rgba(137.26, 137.26, 137.26, 0) 99.99%, rgba(137.26, 137.26, 137.26, 0) 100%);
+  display: flex;
+  min-width: 375px;
+}
+
+.lu39expo .rectangle-9 {
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(90.51, 90.51, 90.51, 0) 99.98%, rgba(137.26, 137.26, 137.26, 0) 99.99%, rgba(137.26, 137.26, 137.26, 0) 100%);
+  height: 49px;
+  width: 375px;
+}
+
+.lu39expo .l-exposition {
+  color: var(--black);
+  font-weight: 400;
+  height: 80px;
+  line-height: 38.4px;
+  margin-right: 1.0px;
+  margin-top: 32px;
+  text-align: center;
+  width: 360px;
+}
+
+.lu39expo .image-9 {
+  height: 210px;
+  margin-right: 1.0px;
+  margin-top: 2px;
+  object-fit: cover;
+  width: 344px;
+}
+
+.lu39expo .overlap-group3 {
+  height: 453px;
+  margin-right: 1.0px;
+  margin-top: 24px;
+  position: relative;
+  width: 360px;
+}
+
+.lu39expo .fondation-cartier-2 {
+  color: var(--black);
+  font-weight: 400;
+  height: 80px;
+  left: 0;
+  line-height: 38.4px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 360px;
+}
+
+.lu39expo .venez-decouvrir-cett {
+  height: 386px;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+  width: 344px;
+}
+
+.lu39expo .component-8 {
+  margin-top: 50px;
+  min-width: 257px;
+}
+
+.lu39expo .overlap-group2 {
+  height: 48px;
+  margin-top: -1px;
+  position: relative;
+  width: 257px;
+}
+
+.lu39expo .component-9 {
+  background-color: var(--black);
+  flex-direction: column;
+  margin-top: 107px;
+  min-height: 527px;
+  padding: 11px 14px;
+  width: 375px;
+}
+
+.lu39expo .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3px;
+  margin-top: 55px;
+  min-height: 45px;
+  width: 281px;
+}
+
+.lu39expo .autres-oeuvres {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3px;
+  min-height: 50px;
+  width: 240px;
+}
+
+.lu39expo .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 7px;
+  margin-right: 4.0px;
+  margin-top: 119px;
+  min-width: 143px;
+}
+
+.lu39expo .logo-insta {
+  background-image: url(../img/logo-insta.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  width: 43px;
+}
+
+.lu39expo .linkedin {
+  background-image: url(../img/linkedin.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  width: 43px;
+}
+
+.lu39expo .twitter-new-logo-8-a {
+  background-image: url(../img/twitter-new-logo-8a0c4e0c58-seeklogo-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 43px;
+  width: 43px;
+}
+
+.lu39expo .palais-des-plans-par-matys-ouvrard {
+  letter-spacing: 0;
+  line-height: 21.3px;
+  margin-top: 15px;
+  min-height: 29px;
+  width: 244px;
+}
+
+.lu39expo .component {
+  align-items: flex-start;
+  display: flex;
+}
+
+.lu39expo .line {
+  height: 5px;
+  width: 46px;
+}
+
+.lu39expo .palais-des-plans-lettre-p {
+  background-image: url(../img/palais-des-plans-lettre-p-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
